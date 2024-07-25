@@ -12,7 +12,7 @@ host = "localhost"
 
 # Mandatory Variables
 REPO_VERSION = "1.0.1"
-BOT_TOKEN = ""
+BOT_TOKEN = "7315028360:AAErdxTrUwKHI5aaw8wdpheex-LASw23Uhw"
 WEBHOOK_URL = ""
 
 # Optional Variables
